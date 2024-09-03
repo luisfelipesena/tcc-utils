@@ -70,7 +70,19 @@
 
 <h1 class="title">O Impacto da Inteligência Artificial na Sociedade Moderna</h1>
 
-<h2 class="heading1">1. Introdução</h2>
+
+<div style="page-break-before: always;">
+  <h2 class="heading1" style="text-align: center; margin-bottom: 1cm;">SUMÁRIO</h2>
+  <div class="summary">
+    1. INTRODUÇÃO<span style="float: right;">3</span><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;1.1 Definição de Inteligência Artificial<span style="float: right;">4</span><br>
+    2. DESENVOLVIMENTO<span style="float: right;">6</span><br>
+    3. CONCLUSÃO<span style="float: right;">12</span><br>
+    4. REFERÊNCIAS<span style="float: right;">13</span>
+  </div>
+</div>
+
+<h2 class="heading1" style="page-break-before: always;">1. Introdução</h2>
 
 <p class="paragraph">A Inteligência Artificial (IA) tem se tornado cada vez mais presente em nossa sociedade, influenciando diversos aspectos de nossas vidas. Este estudo visa analisar o impacto da IA em diferentes setores, como economia, saúde e educação.</p>
 
